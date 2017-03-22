@@ -51,3 +51,7 @@ ul {
 li {
 	padding-bottom: .25em;
 }
+
+#fm-add-item{
+    display:none;
+}
