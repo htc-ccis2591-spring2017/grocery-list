@@ -2,7 +2,7 @@
 /*global $, jQuery, alert*/
 //This will add the item in the textbox to the list
 $(document).ready(function() {
-
+    itemList = [];
     //If there is no stored data, pull from the list in the HTML
     let storedData = localStorage.getItem("groceryList");
     if (storedData == null)
