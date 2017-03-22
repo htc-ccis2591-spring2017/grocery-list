@@ -31,7 +31,7 @@ article {
 	padding: 0 10px 10px;
 }
 
-.menu-item {
+#grocery-list {
     font-size: 120%;
 	cursor: pointer;
 }
